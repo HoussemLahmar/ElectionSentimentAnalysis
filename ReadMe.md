@@ -3,10 +3,10 @@
 This project uses sentiment analysis to predict the outcome of the US presidential elections. The analysis is based on tweets collected from the official Twitter handles of Donald Trump and Joe Biden.
 
 ## Dataset
-The dataset used in this project consists of tweets collected from the official Twitter handles of Donald Trump and Joe Biden. The dataset can be downloaded from [here](link to dataset).
+The dataset used in this project consists of tweets collected from the official Twitter handles of Donald Trump and Joe Biden. The dataset can be downloaded from [here](https://github.com/amankharwal/Website-data/blob/master/US%20Election%20using%20twitter%20sentiment.rar).
 
 ## Methodology
-The project uses the TextBlob package in Python to perform sentiment analysis on the tweets. The sentiment analysis is based on the polarity of the tweets, which ranges from -1 to +1 (negative to positive).
+The project uses the `TextBlob` package in Python to perform sentiment analysis on the tweets. The sentiment analysis is based on the polarity of the tweets, which ranges from -1 to +1 (negative to positive).
 
 ## Results
 The results of the analysis show that Joe Biden is getting more positive tweets and fewer negative tweets compared to Donald Trump. This suggests that Joe Biden is more preferred by the people to win the US Presidential Elections than Donald Trump.
